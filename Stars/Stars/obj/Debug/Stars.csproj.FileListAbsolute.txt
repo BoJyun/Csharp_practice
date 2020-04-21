@@ -1,0 +1,9 @@
+D:\coding_practice\C#學習日記\Stars\Stars\bin\Debug\Stars.exe
+D:\coding_practice\C#學習日記\Stars\Stars\bin\Debug\Stars.pdb
+D:\coding_practice\C#學習日記\Stars\Stars\obj\Debug\Stars.csprojAssemblyReference.cache
+D:\coding_practice\C#學習日記\Stars\Stars\obj\Debug\Stars.Form1.resources
+D:\coding_practice\C#學習日記\Stars\Stars\obj\Debug\Stars.Properties.Resources.resources
+D:\coding_practice\C#學習日記\Stars\Stars\obj\Debug\Stars.csproj.GenerateResource.cache
+D:\coding_practice\C#學習日記\Stars\Stars\obj\Debug\Stars.csproj.CoreCompileInputs.cache
+D:\coding_practice\C#學習日記\Stars\Stars\obj\Debug\Stars.exe
+D:\coding_practice\C#學習日記\Stars\Stars\obj\Debug\Stars.pdb

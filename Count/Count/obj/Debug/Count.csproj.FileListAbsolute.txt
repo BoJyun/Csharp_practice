@@ -1,0 +1,9 @@
+D:\coding_practice\C#學習日記\Count\Count\bin\Debug\Count.exe
+D:\coding_practice\C#學習日記\Count\Count\bin\Debug\Count.pdb
+D:\coding_practice\C#學習日記\Count\Count\obj\Debug\Count.csprojAssemblyReference.cache
+D:\coding_practice\C#學習日記\Count\Count\obj\Debug\Count.Form1.resources
+D:\coding_practice\C#學習日記\Count\Count\obj\Debug\Count.Properties.Resources.resources
+D:\coding_practice\C#學習日記\Count\Count\obj\Debug\Count.csproj.GenerateResource.cache
+D:\coding_practice\C#學習日記\Count\Count\obj\Debug\Count.csproj.CoreCompileInputs.cache
+D:\coding_practice\C#學習日記\Count\Count\obj\Debug\Count.exe
+D:\coding_practice\C#學習日記\Count\Count\obj\Debug\Count.pdb
