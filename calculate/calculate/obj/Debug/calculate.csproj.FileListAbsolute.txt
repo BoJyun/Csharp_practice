@@ -1,0 +1,8 @@
+D:\coding_practice\calculate\calculate\bin\Debug\calculate.exe
+D:\coding_practice\calculate\calculate\bin\Debug\calculate.pdb
+D:\coding_practice\calculate\calculate\obj\Debug\calculate.csproj.GenerateResource.Cache
+D:\coding_practice\calculate\calculate\obj\Debug\calculate.csproj.CoreCompileInputs.cache
+D:\coding_practice\calculate\calculate\obj\Debug\calculate.exe
+D:\coding_practice\calculate\calculate\obj\Debug\calculate.pdb
+D:\coding_practice\calculate\calculate\obj\Debug\calculate.Form1.resources
+D:\coding_practice\calculate\calculate\obj\Debug\calculate.csprojAssemblyReference.cache
